@@ -40,6 +40,7 @@
   
 - <b>Home-Lab-VM </b>    
   - [Setting up Kali Linux VM using VirtualBox](https://github.com/Jeffcybercheck/Home-Lab-VM)
+  - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
   - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/Jeffcybercheck/TCPDump)
   
 - <b>Five Phases of Enterprise-Level Pentration Test </b>  
