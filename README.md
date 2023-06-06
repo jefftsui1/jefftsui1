@@ -35,6 +35,14 @@
     - Use a display filter to detect IP Addresses in packets.
     - Use a display filter to detect HTTP and HTTPS packets.
   
+  - [Introduction to Bash Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/4HR73CEVW35N)
+    - Navigate the file directory
+    - View, edit, create, delete, and rename files on the command line and with text editing tools
+    - Find information about files, logs, your command history, and file paths
+    - Edit your user alias file to personalize your environment
+    - Create a script to back up your user directory
+    - Automate a script with a cron job.
+  
  
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
   
