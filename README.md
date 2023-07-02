@@ -22,7 +22,7 @@
   
   - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
     - Scan websites for vulnerabilities.
-    - Setup and use OWASP ZAP Proxy.
+    - Set up and use OWASP ZAP Proxy.
     - Use a dictionary list to find files and folders and spider crawl to find links and URLs.
   
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/UDT333D53V9P)
@@ -51,13 +51,13 @@
   - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
   - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/Jeffcybercheck/TCPDump)
   
-- <b>Five Phases of Enterprise-Level Pentration Test </b>  
+- <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
   - [Phase 2: Identify Targets and Run Scans](https://docs.google.com/document/d/10b3LtFLcGVknb14UawNQLBP0fX-pYGlHC-58ujXu-3U/edit?usp=sharing)
   - [Phase 3. Identify Vulnerabilities](https://docs.google.com/document/d/17BrIXEOrBXV_pRjQxot65F7srKnb_K-JE-12Bnm5CG4/edit?usp=sharing)
   - [Phase 4: Threat Assessment](https://docs.google.com/document/d/1XW5Uuhzb6lvT2me4JubiAVMCcDh14spfvg3H6jIlvCA/edit?usp=sharing)
-  - [Phase 5: Final Reports Detailed Technical Report Part 1](https://docs.google.com/document/d/1ryYGz4QHnfIrlQRvG-wUPW-bYorkkmcFMyL4Q3Jlf0k/edit?usp=sharing)
-  - [Phase 5: Final Reports Excutive Summary Part 2](https://docs.google.com/document/d/174S_ybBz4xr2A-YpVl6zWxooTCB2W0aLUfpGv0d2iYo/edit?usp=sharing)
+  - [Phase 5 Part 1: Final Reports Detailed Technical Report](https://docs.google.com/document/d/1ryYGz4QHnfIrlQRvG-wUPW-bYorkkmcFMyL4Q3Jlf0k/edit?usp=sharing)
+  - [Phase 5 Part 2: Final Reports Executive Summary](https://docs.google.com/document/d/174S_ybBz4xr2A-YpVl6zWxooTCB2W0aLUfpGv0d2iYo/edit?usp=sharing)
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
@@ -65,5 +65,5 @@
 - <b>Capstone Project using Tableau</b>
   - [Staten Island Crime Rate](https://public.tableau.com/app/profile/jeff.tsui2745/viz/CapstoneProject_16124865223510/Story1?publish=yes)
 - <b>Capstone Project using Python</b>
-  - [Motor Vechicle Crashes in Staten Island](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
+  - [Motor Vehicle Crashes in Staten Island](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
  
