@@ -9,13 +9,14 @@
  <h2>🎓 Learning Certifications: </h2>
   
 - <b>Bootcamp Certificates</b>
+
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)
   
   - [Certification in Cybersecurity](https://www.credential.net/9e06fda2-a813-4170-9035-46762fb7148e#gs.z355vy)
   
   - [Certification in Data Analytics](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)
   
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)
-  
+ 
 - <b>Coursera Guided Project Certificates</b>
   
   - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
