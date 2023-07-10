@@ -8,13 +8,11 @@
 
  <h2>🎓 Learning Certifications: </h2>
   
-- <b>Springboard Bootcamp Certificates</b>
+- <b>Bootcamp Certificates</b>
   
   - [Certification in Cybersecurity](https://www.credential.net/9e06fda2-a813-4170-9035-46762fb7148e#gs.z355vy)
   
   - [Certification in Data Analytics](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)
-  
-- <b>Coursera Specialization Certificate</b>
   
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)
   
