@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefftsui1.jefftsui1" />
 
-<h1 align="left">
+<h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=👋+Hello+There!+👋;+I'm+Jeff+Tsui!;" />
 </h1>
