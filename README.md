@@ -1,15 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefftsui1.jefftsui1" />
 
-<h1 align="center">
+<h1 align="left">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=👋+Hello+There!+👋;+I'm+Jeff+Tsui!;" />
 </h1>
 
-<h3 align="center">An aspiring Cybersecurity Analyst </h3>
+<h3 align="left">An aspiring Cybersecurity Analyst </h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a few hands-on Cybersecurity Projects**
  
@@ -33,7 +33,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jefftsui1/jefftsui1/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
