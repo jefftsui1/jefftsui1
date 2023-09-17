@@ -30,6 +30,8 @@
 
   </div>
 
+<div align="left"> 
+
 <h1>Hi, I'm Jeff! <br/><a href="https://github.com/Jeffcybercheck">Programmer</a>, <a href="https://www.linkedin.com/in/jeff-tsui177/">Cybersecurity Professional</a>
 
 <h2>🎓 Professional Certifications: </h2>
