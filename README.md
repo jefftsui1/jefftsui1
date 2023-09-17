@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Ethical Hacking** and studying **AWS Solutions Architect**
 
- ⚡ Fun fact **Human Error Accounts for 95% of Cyber Attacks**
+ ⚡ Fun fact: **Human Error Accounts for 95% of Cyber Attacks**
  
  </div>
 
@@ -27,6 +27,8 @@
   <a href="https://www.linkedin.com/in/jeff-tsui177/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+
+  </div>
 
 <h1>Hi, I'm Jeff! <br/><a href="https://github.com/Jeffcybercheck">Programmer</a>, <a href="https://www.linkedin.com/in/jeff-tsui177/">Cybersecurity Professional</a>
 
