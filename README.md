@@ -52,11 +52,11 @@
 
 <h2>🎓 Professional Certifications: </h2>
 
-- <b>AWS</b>
+<b>AWS</b>
 
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9316ec55-5cc6-4da0-9582-01bb6bc13e96/public_url)
   
-- <b>CompTIA</b>
+<b>CompTIA</b>
   
   - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)
 
