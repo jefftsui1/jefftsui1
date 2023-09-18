@@ -142,21 +142,22 @@
       - Learning Objective:
           - The Executive Summary can be no more than 2 pages long, includes graphs and charts, and highlights the business impact of the findings.
   
-<h3>Home-Labs </h3>    
+<h2>Cybersecurity Home-Labs </h2>    
 
-<b>Home-Lab-VM </b>  
+<b>Home-Lab-VM</b>  
 
-  - [Setting up Kali Linux VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM)
+  - Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
       - Objective:
-          - Providing a step-by-step process for creating Kali Linux Virtual Machine using VirtualBox
+          - Providing a step-by-step process for creating Kali Linux Virtual Machine and Ubuntu Virtual Machine using VirtualBox
       - Benefits:
-          - **Cost-Efficiency**: Creating a home lab with VMs is cost-effective as it eliminates the need for physical hardware, allowing you to set up multiple virtual environments without additional expenses.
-          - **Multi-OS Compatibility**: VirtualBox supports various operating systems, allowing you to experiment with different configurations, network topologies, and virtual appliances, enriching your overall learning experience.
-          - **Snapshot Functionality**: VirtualBox offers snapshot capabilities, allowing you to save the state of your Kali Linux VM at different points in time. This feature is invaluable for quickly reverting to a known-good state or tracking changes during experiments.
-          - **Real-World Simulation**: By setting up a Kali Linux VM, you can recreate real-world cybersecurity scenarios, such as ethical hacking, vulnerability assessment, and network defense, in a controlled environment to enhance your expertise.
+          - **Cost-Efficiency**: Setting up VMs in VirtualBox eliminates the need for additional physical hardware, saving you money on equipment and energy costs. It's a cost-effective way to create a diverse and versatile home lab.
+          - **Diverse Skill Development**: Running both Kali Linux and Ubuntu VMs in your home lab allows you to develop a wide range of IT skills. Kali Linux is ideal for cybersecurity, penetration testing, and ethical hacking, while Ubuntu provides a versatile platform for software development, system administration, and general-purpose computing.
+          - **Snapshot Functionality**: VirtualBox offers snapshot capabilities for both Kali Linux and Ubuntu VMs. This feature allows you to save and restore the state of each VM at various points, facilitating experimentation and ensuring easy recovery from mistakes or issues.
+          - **Real-World Simulations**: Running Kali Linux and Ubuntu VMs allows you to simulate real-world IT scenarios, such as securing a network, developing applications, or troubleshooting system issues, providing practical experience that is valuable in professional settings.
+          - **Multi-OS Compatibility**: VirtualBox supports a wide range of operating systems, making it versatile for creating and testing different configurations, network topologies, and software setups, enhancing your overall IT skill set.
        
 
-  - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
+  
   - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
   
 
