@@ -118,7 +118,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
 - <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
-  - Description
+
+  - Description:
+ 
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
       - This project's objective is to analyze four precincts in Staten Island, studying both seven major felony offenses and seven non-major felony offenses occurring within these precincts.
       - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
