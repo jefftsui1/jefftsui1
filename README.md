@@ -102,9 +102,9 @@
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
   
 - <b>Home-Lab-VM </b>    
-  - [Setting up Kali Linux VM using VirtualBox](https://github.com/Jeffcybercheck/Home-Lab-VM)
+  - [Setting up Kali Linux VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM)
   - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
-  - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/Jeffcybercheck/TCPDump)
+  - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
   
 - <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
