@@ -159,7 +159,7 @@
  
 - <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
 
-- <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
+    - <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
 
   - Skills used: Analytic Skills, Data Visualization, Tableau
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
