@@ -144,8 +144,6 @@
   
 <h2>Cybersecurity Home-Labs </h2>    
 
-<b>Home-Lab-VM</b>  
-
   - Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
       - Objective:
           - Providing a step-by-step process for creating Kali Linux Virtual Machine and Ubuntu Virtual Machine using VirtualBox
@@ -158,9 +156,11 @@
        
 
   
-  - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
-  
-
+  - [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
+      - Objective:
+          - Providing a step-by-step process for using TCPDump basic commands for network analysis.
+          - Learn how to intercept and inspect network traffic passing through your system with basic commands.
+          - Familiarize with the ability to capture, filter, and analyze network traffic, aiding in network troubleshooting, security monitoring, and performance analysis.
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
