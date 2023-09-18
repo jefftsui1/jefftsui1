@@ -168,6 +168,15 @@
           - Providing a step-by-step process for using TCPDump basic commands for network analysis.
           - Learn how to intercept and inspect network traffic passing through your system with basic commands.
           - Familiarize with the ability to capture, filter, and analyze network traffic, aiding in network troubleshooting, security monitoring, and performance analysis.
+       
+ - [Vulnhub-Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
+     - Objective:
+         - Providing a step-by-step process for using Jangow 1.0.1 VM box download on Vulnhub for tackling the CTF problem.
+         - Goal: Capture the Flag (CTF), or gain root access to the target machine.
+         - Skills Used:
+             - Using the Command Line Interface (CLI) for network scanning
+             - Using the browser to look up the IP address for reconnaissance
+             - Using exploits on exploit-db.com
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
