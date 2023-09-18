@@ -108,6 +108,8 @@
   
 - <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
+      - Description: Learning Objectives: Define tools and methods that can be used to accomplish the task of Reconnaissance. The tools and methods should be related to the following categories:
+          - Social media, Search engines, Job boards, Company research, Domain and IP research, Pastebins
   - [Phase 2: Identify Targets and Run Scans](https://docs.google.com/document/d/10b3LtFLcGVknb14UawNQLBP0fX-pYGlHC-58ujXu-3U/edit?usp=sharing)
   - [Phase 3. Identify Vulnerabilities](https://docs.google.com/document/d/17BrIXEOrBXV_pRjQxot65F7srKnb_K-JE-12Bnm5CG4/edit?usp=sharing)
   - [Phase 4: Threat Assessment](https://docs.google.com/document/d/1XW5Uuhzb6lvT2me4JubiAVMCcDh14spfvg3H6jIlvCA/edit?usp=sharing)
@@ -119,13 +121,15 @@
  
 - <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
 
-  - Skills: Analytic Skills, Data Visualization, Tableau
+  - Skills used: Analytic Skills, Data Visualization, Tableau
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
       - This project's objective is to analyze four precincts in Staten Island, studying both seven major felony offenses and seven non-major felony offenses occurring within these precincts.
       - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
    
 
 - <b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
+
+  - Skills used: Analytic Skills, Data Visualization, Python
   - [Part 1: Hypothesis Formation and Issue Template](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
       - Description: In this part of my project, I created a Hypothesis Formation and Issue Template for my thesis of "How can we reduce car accidents in Staten Island (NYC)"
   - [Part 2: Github code.ipynb Python Scripts](https://github.com/jefftsui1/Python-Project/blob/main/Capstone%20project%202%20code.ipynb)
