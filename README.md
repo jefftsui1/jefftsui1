@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+👋;+Thank+You+For+Visiting!;+I'm+Jeff!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+I'm+Jeff!+👋;+Thank+You+For+Visiting!;" />
 </h1>
 
 <h3 align="left">I am an Apiring <a href="https://www.linkedin.com/in/jeff-tsui177/">Cybersecurity Analyst</a> </h3>
