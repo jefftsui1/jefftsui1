@@ -2,18 +2,22 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=👋+Hello+There!+👋;+I'm+Jeff+Tsui!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+👋;+Thank+You+For+Visiting!;+I'm+Jeff!;" />
 </h1>
 
-<h3 align="left">An aspiring Cybersecurity Analyst </h3>
+<h3 align="left">An Apiring <a href="https://www.linkedin.com/in/jeff-tsui177/">Cybersecurity Analyst</a> </h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working on **a few hands-on Cybersecurity Projects**
+ ✎ I’m currently working on **a few hands-on Cybersecurity Projects**
  
- 🌱 I’m currently learning **Ethical Hacking** and studying **AWS Solutions Architect**
+ 💻 I’m currently learning **Ethical Hacking** and studying **AWS Solutions Architect**
+
+ 🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge
+
+ 💡 Feel free to inquire about topics related to Cybersecurity
 
  ⚡ Fun fact: **Human Error Accounts for 95% of Cyber Attacks**
  
@@ -44,7 +48,7 @@
 
 <div align="left"> 
 
-<h1>Hi, I'm Jeff! <br/><a href="https://github.com/Jeffcybercheck">Programmer</a>, <a href="https://www.linkedin.com/in/jeff-tsui177/">Cybersecurity Professional</a>
+<h1>My Experience</a>
 
 <h2>🎓 Professional Certifications: </h2>
   
