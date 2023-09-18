@@ -64,7 +64,7 @@
 
  <h2>🎓 Learning Certifications: </h2>
   
-- <b>Bootcamp Certificates</b>
+<b>Bootcamp Certificates</b>
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)
   
@@ -73,7 +73,7 @@
   - [Springboard Certification in Data Analytics](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)
   
  
-- <b>Coursera Guided Project Certificates</b>
+<b>Coursera Guided Project Certificates</b>
   
   - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
     - Scan websites for vulnerabilities.
@@ -101,7 +101,7 @@
  
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
   
-- <b>Home-Lab-VM </b>    
+<b>Home-Lab-VM </b>    
   - [Setting up Kali Linux VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM)
       - Objective:
           - Providing a step-by-step process for creating Kali Linux Virtual Machine using VirtualBox
@@ -113,7 +113,7 @@
   - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
   - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
   
-- <b>Five Phases of Enterprise-Level Penetration Test </b>  
+<b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
       - Learning Objectives:
           - Define tools and methods that can be used to accomplish the task of Reconnaissance.
@@ -157,9 +157,9 @@
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
-- <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
+<b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
 
-    - <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
+  - <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
 
   - Skills used: Analytic Skills, Data Visualization, Tableau
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
@@ -167,7 +167,7 @@
       - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
    
 
-- <b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
+<b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
 
   - Skills used: Analytic Skills, Data Visualization, Python
   - [Part 1: Hypothesis Formation and Issue Template](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
