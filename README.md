@@ -51,12 +51,16 @@
 <h1>My Experience</a>
 
 <h2>🎓 Professional Certifications: </h2>
+
+- <b>AWS</b>
+
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9316ec55-5cc6-4da0-9582-01bb6bc13e96/public_url)
   
 - <b>CompTIA</b>
   
   - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)
 
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badge/9316ec55-5cc6-4da0-9582-01bb6bc13e96)
+
 
  <h2>🎓 Learning Certifications: </h2>
   
@@ -77,9 +81,9 @@
     - Use a dictionary list to find files and folders and spider crawl to find links and URLs.
   
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/UDT333D53V9P)
-    - Learn how tcpdump works.
+    - Learn how Tcpdump works.
     - Analyze captured packets.
-    - Use tcpdump to capture TCP packets.
+    - Use Tcpdump to capture TCP packets.
   
   - [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/VL72VSRES3N3)
     - Install and set up Wireshark on Ubuntu.
@@ -113,8 +117,13 @@
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
-- <b>Capstone Project using Tableau</b>
-  - [Staten Island Crime Rate](https://public.tableau.com/app/profile/jeff.tsui2745/viz/CapstoneProject_16124865223510/Story1?publish=yes)
+- <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
+  - Description
+      - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
+      - This project's objective is to analyze four precincts in Staten Island, studying both seven major felony offenses and seven non-major felony offenses occurring within these precincts.
+      - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
+   
+
 - <b>Capstone Project using Python</b>
   - [Motor Vehicle Crashes in Staten Island](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
  
