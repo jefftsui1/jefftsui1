@@ -166,18 +166,18 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
 <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
-
-  - <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
-
-  - Skills used: Analytic Skills, Data Visualization, Tableau
+  - Description:
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
       - This project's objective is to analyze four precincts in Staten Island, studying both seven major felony offenses and seven non-major felony offenses occurring within these precincts.
       - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
    
+  - [Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)
+
+  - Skills used: Analytic Skills, Data Visualization, Tableau
+     
+   
 
 <b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
-
-  - Skills used: Analytic Skills, Data Visualization, Python
   - [Part 1: Hypothesis Formation and Issue Template](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
       - Description: In this part of my project, I created a Hypothesis Formation and Issue Template for my thesis of "How can we reduce car accidents in Staten Island (NYC)"
   - [Part 2: Github code.ipynb Python Scripts](https://github.com/jefftsui1/Python-Project/blob/main/Capstone%20project%202%20code.ipynb)
@@ -186,5 +186,6 @@
       - Description: This is the final part of my project, I broke down all my findings into a presentable way by using Python along with Jupyter Notebook. Findings include graphs, charts, maps, matrices, and heat maps along with the conclusion of the factors that can affect car crashes in Staten Island, which include: area, time, vehicle types, and factors contributing to the accident (traffic laws).
   - [Bouns Part: Presenting data with Tableau](https://public.tableau.com/app/profile/jeff.tsui3845/viz/Capstone2_16197333090400/MotorCrashesinStatenIslandNYC)
       - Description: Using the site public.tableau.com, I created a tableau in order to analyze my findings for my capstone project. Anyone can play around with the table to look at the heatmap, matrix, graph, and chart.
-    
+   
+  - Skills used: Analytic Skills, Data Visualization, Python 
  
