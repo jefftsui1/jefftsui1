@@ -181,8 +181,7 @@
       - [Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)
 
   - Skills used: Analytic Skills, Data Visualization, Tableau
-     
-   
+        
 
 <b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
   - [Part 1: Hypothesis Formation and Issue Template](https://github.com/Jeffcybercheck/sharing-github/blob/main/Capstone%20project%202%20code.ipynb)
