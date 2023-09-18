@@ -178,7 +178,7 @@
       - This project's objective is to analyze four precincts in Staten Island, studying both seven major felony offenses and seven non-major felony offenses occurring within these precincts.
       - The purpose is to raise local awareness in Staten Island regarding specific areas and times, and present data to the NYPD to highlight the need for their attention in those areas.
    
-  - [Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)
+      - [Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)
 
   - Skills used: Analytic Skills, Data Visualization, Tableau
      
