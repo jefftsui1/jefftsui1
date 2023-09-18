@@ -100,19 +100,7 @@
   
  
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
-  
-<b>Home-Lab-VM </b>    
-  - [Setting up Kali Linux VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM)
-      - Objective:
-          - Providing a step-by-step process for creating Kali Linux Virtual Machine using VirtualBox
-      - Benefits:
-          - **Cost-Efficiency**: Creating a home lab with VMs is cost-effective as it eliminates the need for physical hardware, allowing you to set up multiple virtual environments without additional expenses.
-          - **Multi-OS Compatibility**: VirtualBox supports various operating systems, allowing you to experiment with different configurations, network topologies, and virtual appliances, enriching your overall learning experience.
-          - **Snapshot Functionality**: VirtualBox offers snapshot capabilities, allowing you to save the state of your Kali Linux VM at different points in time. This feature is invaluable for quickly reverting to a known-good state or tracking changes during experiments.
-          - **Real-World Simulation**: By setting up a Kali Linux VM, you can recreate real-world cybersecurity scenarios, such as ethical hacking, vulnerability assessment, and network defense, in a controlled environment to enhance your expertise.
-  - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
-  - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
-  
+
 <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
       - Learning Objectives:
@@ -153,6 +141,20 @@
   - [Phase 5 Part 2: Final Reports Executive Summary](https://docs.google.com/document/d/174S_ybBz4xr2A-YpVl6zWxooTCB2W0aLUfpGv0d2iYo/edit?usp=sharing)
       - Learning Objective:
           - The Executive Summary can be no more than 2 pages long, includes graphs and charts, and highlights the business impact of the findings.
+  
+<h3>Home-Lab-VM </h3>    
+  - [Setting up Kali Linux VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM)
+      - Objective:
+          - Providing a step-by-step process for creating Kali Linux Virtual Machine using VirtualBox
+      - Benefits:
+          - **Cost-Efficiency**: Creating a home lab with VMs is cost-effective as it eliminates the need for physical hardware, allowing you to set up multiple virtual environments without additional expenses.
+          - **Multi-OS Compatibility**: VirtualBox supports various operating systems, allowing you to experiment with different configurations, network topologies, and virtual appliances, enriching your overall learning experience.
+          - **Snapshot Functionality**: VirtualBox offers snapshot capabilities, allowing you to save the state of your Kali Linux VM at different points in time. This feature is invaluable for quickly reverting to a known-good state or tracking changes during experiments.
+          - **Real-World Simulation**: By setting up a Kali Linux VM, you can recreate real-world cybersecurity scenarios, such as ethical hacking, vulnerability assessment, and network defense, in a controlled environment to enhance your expertise.
+  - [Setting up Ubuntu VM using VirtualBox](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu)
+  - [TCPDump Basic Command to Analyze Network Traffic](https://github.com/jefftsui1/TCPDump)
+  
+
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
