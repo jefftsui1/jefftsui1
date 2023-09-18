@@ -19,7 +19,7 @@
 
  💡 Feel free to inquire about topics related to Cybersecurity
 
- ⚡ Fun fact: **Human Error Accounts for 95% of Cyber Attacks**
+ ⚡ Fun fact: **You can skydive without a parachute, but only once.**
  
  </div>
 
@@ -54,7 +54,9 @@
   
 - <b>CompTIA</b>
   
-  - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)  
+  - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)
+
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badge/9316ec55-5cc6-4da0-9582-01bb6bc13e96)
 
  <h2>🎓 Learning Certifications: </h2>
   
