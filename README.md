@@ -108,18 +108,51 @@
   
 - <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
-      - Description: Learning Objectives: Define tools and methods that can be used to accomplish the task of Reconnaissance. The tools and methods should be related to the following categories:
-          - Social media, Search engines, Job boards, Company research, Domain and IP research, Pastebins
+      - Learning Objectives:
+          - Define tools and methods that can be used to accomplish the task of Reconnaissance.
+          - The tools and methods should be related to the following categories:
+              - Social media, Search engines, Job boards, Company research, Domain and IP research, Pastebins
   - [Phase 2: Identify Targets and Run Scans](https://docs.google.com/document/d/10b3LtFLcGVknb14UawNQLBP0fX-pYGlHC-58ujXu-3U/edit?usp=sharing)
+      - Learning Objective:
+          - Identify at least five network scanning tools, including those available in Kali Linux.
+          - Write a clear explanation of the practical reason for choosing those tools in network scanning activities.
   - [Phase 3. Identify Vulnerabilities](https://docs.google.com/document/d/17BrIXEOrBXV_pRjQxot65F7srKnb_K-JE-12Bnm5CG4/edit?usp=sharing)
+      - Learning Objective:
+          -  Identify a minimum of five tools for conducting vulnerability scans.
+          -  Demonstrate the practical application of these tools, including the capture of tool-specific screenshots showcasing configuration options and settings.
+          -  Analyze and articulate the advantages and disadvantages of each selected tool.
   - [Phase 4: Threat Assessment](https://docs.google.com/document/d/1XW5Uuhzb6lvT2me4JubiAVMCcDh14spfvg3H6jIlvCA/edit?usp=sharing)
+      - Learning Objective:
+          - Analyze the nine given scenarios for threat assessment.
+          - The Threat Assessment must include:
+            - Description of the vulnerability
+            - Which operating systems/versions can be affected?
+            - Risks of trying to attempt the exploit?
+            - Damage of the exploit if successful?
+            - Remediation action
+            - CVSS score
   - [Phase 5 Part 1: Final Reports Detailed Technical Report](https://docs.google.com/document/d/1ryYGz4QHnfIrlQRvG-wUPW-bYorkkmcFMyL4Q3Jlf0k/edit?usp=sharing)
+      - Learning Objective: 
+          - The Detailed Technical Report should contain the scope and approach, reconnaissance activities, vulnerabilities, and an analysis of the threats that the made-up company "Artemis" faces based on the current threat environment. The report should include the following sections:
+              - A cover page
+              - A Table of contents
+              - Scope of Work
+              - Project Objectives
+              - Assumptions
+              - Timeline
+              - Summary of Findings
+              - Recommendations
+
   - [Phase 5 Part 2: Final Reports Executive Summary](https://docs.google.com/document/d/174S_ybBz4xr2A-YpVl6zWxooTCB2W0aLUfpGv0d2iYo/edit?usp=sharing)
+      - Learning Objective:
+          - The Executive Summary can be no more than 2 pages long, includes graphs and charts, and highlights the business impact of the findings.
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
 - <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
+
+- <b>[Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)</b>
 
   - Skills used: Analytic Skills, Data Visualization, Tableau
       - This project consists of primarily using Tableau to analyze the crime rate in Staten Island between 2015 to 2019 according to the data.ciryofnewyork.us website.
