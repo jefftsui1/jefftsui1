@@ -105,7 +105,7 @@
     - Create a script to back up your user directory
     - Automate a script with a cron job.
 
-  <b>Udemy Continous Learning Certificates </b>
+  <b>Udemy Learning Certificates </b>
 
   - [The Complete Cyber Security Course: Hacker Exposed!](https://www.udemy.com/certificate/UC-16eddbfa-79eb-41d2-9b8f-b6a7ae0fd1bd/)
     -  Volume 1: Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC
