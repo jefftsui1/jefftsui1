@@ -98,17 +98,29 @@
     - Use a display filter to detect HTTP and HTTPS packets.
   
   - [Introduction to Bash Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/4HR73CEVW35N)
-    - Navigate the file directory
-    - View, edit, create, delete, and rename files on the command line and with text editing tools
-    - Find information about files, logs, your command history, and file paths
-    - Edit your user alias file to personalize your environment
-    - Create a script to back up your user directory
+    - Navigate the file directory.
+    - View, edit, create, delete, and rename files on the command line and with text editing tools.
+    - Find information about files, logs, your command history, and file paths.
+    - Edit your user alias file to personalize your environment.
+    - Create a script to back up your user directory.
     - Automate a script with a cron job.
 
   <b>Udemy Learning Certificates </b>
 
   - [The Complete Cyber Security Course: Hacker Exposed!](https://www.udemy.com/certificate/UC-16eddbfa-79eb-41d2-9b8f-b6a7ae0fd1bd/)
-    -  Volume 1: Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT Security & INFOSEC
+      - Acquire a comprehensive skill set for countering a wide array of online threats, including advanced hackers, trackers, malware, zero-day exploits, and cybercriminal activities.
+      - Gain an in-depth understanding of the threat landscape and vulnerability assessment techniques through the practice of threat modeling and risk assessments.
+      - Delve into the intricacies of the Darknet and delve into the psyche of cybercriminals, covering topics such as malware, exploit kits, phishing, and zero-day vulnerabilities.
+      - Develop a strong foundation in operating system security and privacy features, with a specific focus on addressing privacy concerns in Windows 10 and implementing effective mitigation strategies.
+      - Mastery of defensive strategies against various social engineering threats, including phishing, SMShing, vishing, identity theft, scams, and confidence tricks.
+  
+  - [Real-World Ethical Hacking: Hands-on Cybersecurity](https://www.udemy.com/certificate/UC-b39f1e81-31a4-4862-9b27-9931a6c4467b/)
+      - Efficiently master practical skills in Linux, Windows hacking, and cybersecurity.
+      - Establish a secure, cost-free virtual network and VM lab for Ethical Hacking (Windows and Linux).
+      - Enhance defense against cyber threats, including viruses, phishing, and ransomware.
+      - Learn key strategies to reduce the risk of 85% of potential attacks.
+      - Acquire expertise in command-line shortcuts and advanced tools while understanding computer infection mechanics and countermeasures.
+  
 
  
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
