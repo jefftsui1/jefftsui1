@@ -118,8 +118,8 @@
       - Efficiently master practical skills in Linux, Windows hacking, and cybersecurity.
       - Establish a secure, cost-free virtual network and VM lab for Ethical Hacking (Windows and Linux).
       - Enhance defense against cyber threats, including viruses, phishing, and ransomware.
-      - Learn key strategies to reduce the risk of 85% of potential attacks.
       - Acquire expertise in command-line shortcuts and advanced tools while understanding computer infection mechanics and countermeasures.
+      - [Guided Hands-on Lab](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne) by me to demonstrate my acquired knowledge and skills from the lessons.
   
 
  
