@@ -159,7 +159,7 @@
     - [Password Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/7.%20Ethical%20Hacking%205%20-%20Password%20Problems.md)
     - [Web Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/8.%20Ethical%20Hacking%206%20-%20Web%20Hacking.md)
    
-  
+- [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
