@@ -35,7 +35,7 @@
   </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions 🐍 Game</h2>
   <br>
     
 <picture>
