@@ -19,7 +19,7 @@
 
  💡 Please do not hesitate to ask any questions about cybersecurity.
 
- ⚡ Fun fact: You can **skydive** without a **parachute**, but only **ONCE**.
+ ⚡ Fun fact: *You can* **skydive** *without a* **parachute**, *but only* **ONCE**.
  
  </div>
 
