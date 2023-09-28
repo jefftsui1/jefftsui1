@@ -83,44 +83,21 @@
 <b>Coursera Guided Project Certificates</b>
   
   - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
-    - Scan websites for vulnerabilities.
-    - Set up and use OWASP ZAP Proxy.
-    - Use a dictionary list to find files and folders and spider crawl to find links and URLs.
   
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/UDT333D53V9P)
-    - Learn how Tcpdump works.
-    - Analyze captured packets.
-    - Use Tcpdump to capture TCP packets.
-  
-  - [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/VL72VSRES3N3)
-    - Install and set up Wireshark on Ubuntu.
-    - Use a display filter to detect IP Addresses in packets.
-    - Use a display filter to detect HTTP and HTTPS packets.
-  
-  - [Introduction to Bash Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/4HR73CEVW35N)
-    - Navigate the file directory.
-    - View, edit, create, delete, and rename files on the command line and with text editing tools.
-    - Find information about files, logs, your command history, and file paths.
-    - Edit your user alias file to personalize your environment.
-    - Create a script to back up your user directory.
-    - Automate a script with a cron job.
 
-  <b>Udemy Learning Certificates </b>
+  - [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/VL72VSRES3N3)
+ 
+  - [Introduction to Bash Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/4HR73CEVW35N)
+
+
+<b>Udemy Learning Certificates </b>
 
   - [The Complete Cyber Security Course: Hacker Exposed!](https://www.udemy.com/certificate/UC-16eddbfa-79eb-41d2-9b8f-b6a7ae0fd1bd/)
-      - Acquire a comprehensive skill set for countering a wide array of online threats, including advanced hackers, trackers, malware, zero-day exploits, and cybercriminal activities.
-      - Gain an in-depth understanding of the threat landscape and vulnerability assessment techniques through the practice of threat modeling and risk assessments.
-      - Delve into the intricacies of the Darknet and delve into the psyche of cybercriminals, covering topics such as malware, exploit kits, phishing, and zero-day vulnerabilities.
-      - Develop a strong foundation in operating system security and privacy features, with a specific focus on addressing privacy concerns in Windows 10 and implementing effective mitigation strategies.
-      - Mastery of defensive strategies against various social engineering threats, including phishing, SMShing, vishing, identity theft, scams, and confidence tricks.
+     
   
   - [Real-World Ethical Hacking: Hands-on Cybersecurity](https://www.udemy.com/certificate/UC-b39f1e81-31a4-4862-9b27-9931a6c4467b/)
-      - Efficiently master practical skills in Linux, Windows hacking, and cybersecurity.
-      - Establish a secure, cost-free virtual network and VM lab for Ethical Hacking (Windows and Linux).
-      - Enhance defense against cyber threats, including viruses, phishing, and ransomware.
-      - Acquire expertise in command-line shortcuts and advanced tools while understanding computer infection mechanics and countermeasures.
-      - [Guided Hands-on Lab](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne) by me to demonstrate my acquired knowledge and skills from the lessons.
-  
+    
 
  
 <h2>💻🕵🏻 Cyber Security Projects:</h2>  
@@ -169,31 +146,11 @@
 <h2>Cybersecurity Home-Labs </h2>    
 
   - Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
-      - Objective:
-          - Providing a step-by-step process for creating Kali Linux Virtual Machine and Ubuntu Virtual Machine using VirtualBox
-      - Benefits:
-          - **Cost-Efficiency**: Setting up VMs in VirtualBox eliminates the need for additional physical hardware, saving you money on equipment and energy costs. It's a cost-effective way to create a diverse and versatile home lab.
-          - **Diverse Skill Development**: Running both Kali Linux and Ubuntu VMs in your home lab allows you to develop a wide range of IT skills. Kali Linux is ideal for cybersecurity, penetration testing, and ethical hacking, while Ubuntu provides a versatile platform for software development, system administration, and general-purpose computing.
-          - **Snapshot Functionality**: VirtualBox offers snapshot capabilities for both Kali Linux and Ubuntu VMs. This feature allows you to save and restore the state of each VM at various points, facilitating experimentation and ensuring easy recovery from mistakes or issues.
-          - **Real-World Simulations**: Running Kali Linux and Ubuntu VMs allows you to simulate real-world IT scenarios, such as securing a network, developing applications, or troubleshooting system issues, providing practical experience that is valuable in professional settings.
-          - **Multi-OS Compatibility**: VirtualBox supports a wide range of operating systems, making it versatile for creating and testing different configurations, network topologies, and software setups, enhancing your overall IT skill set.
-       
-
-  
+      
   - [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
-      - Objective:
-          - Providing a step-by-step process for using TCPDump basic commands for network analysis.
-          - Learn how to intercept and inspect network traffic passing through your system with basic commands.
-          - Familiarize with the ability to capture, filter, and analyze network traffic, aiding in network troubleshooting, security monitoring, and performance analysis.
-       
+           
  - [Vulnhub-Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
-     - Objective:
-         - Providing a step-by-step process for using Jangow 1.0.1 VM box download on Vulnhub for tackling the CTF problem.
-         - Goal: Capture the Flag (CTF), or gain root access to the target machine.
-         - Skills Used:
-             - Using the Command Line Interface (CLI) for network scanning
-             - Using the browser to look up the IP address for reconnaissance
-             - Using exploits on exploit-db.com
+   
   
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
