@@ -11,13 +11,13 @@
 
 <div align="left">
  
- ✎ I’m currently working on **a few hands-on Cybersecurity Projects**
+ ✎ I’m currently working on **Hands-On Cybersecurity Projects**
  
  💻 I’m currently learning **Ethical Hacking** and studying **AWS Solutions Architect**
 
  🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge
 
- 💡 Feel free to inquire about topics related to Cybersecurity
+ 💡 Please do not hesitate to ask any questions about cybersecurity.
 
  ⚡ Fun fact: **You can skydive without a parachute, but only once.**
  
