@@ -149,9 +149,9 @@
       
 - [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
            
-- [Vulnhub](https://github.com/jefftsui1/Vulnhub-Jangow)-Jangow
+- Vulnhub-[Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
 
-- [Hands-on Project 1: Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
+- Hands-on Project 1: [Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
     - [Creating a Phishing Email](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/3.%20Ethical%20Hacking%201%20-%20Phishing%20Email.md)
     - [Reconnaissance](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/4.%20Ethical%20Hacking%202%20-%20Reconnaissance.md)
     - [Hacking into Windows VM Part 1](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/5.%20Ethical%20Hacking%203%20-%20Remote%20Hacking%20Windows%20VM%20Part%201.md)
@@ -159,7 +159,7 @@
     - [Password Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/7.%20Ethical%20Hacking%205%20-%20Password%20Problems.md)
     - [Web Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/8.%20Ethical%20Hacking%206%20-%20Web%20Hacking.md)
    
-- [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
+- Hands-on Project 2: [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
  
