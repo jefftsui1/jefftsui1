@@ -67,9 +67,9 @@
   
   - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)
 
+<h2></h2>
 
-
- <h2>🎓 Learning Certifications: </h2>
+<h2>🎓 Learning Certifications: </h2>
   
 <b>Bootcamp Certificates</b>
 
@@ -97,10 +97,30 @@
      
   
   - [Real-World Ethical Hacking: Hands-on Cybersecurity](https://www.udemy.com/certificate/UC-b39f1e81-31a4-4862-9b27-9931a6c4467b/)
-    
 
+<h2></h2>    
  
-<h2>💻🕵🏻 Cyber Security Projects:</h2>  
+<h2>Cybersecurity Home-Labs </h2>    
+
+- Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
+      
+- [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
+           
+- Vulnhub: [Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
+
+- Hands-on Project 1: [Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
+    - [Creating a Phishing Email](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/3.%20Ethical%20Hacking%201%20-%20Phishing%20Email.md)
+    - [Reconnaissance](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/4.%20Ethical%20Hacking%202%20-%20Reconnaissance.md)
+    - [Hacking into Windows VM Part 1](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/5.%20Ethical%20Hacking%203%20-%20Remote%20Hacking%20Windows%20VM%20Part%201.md)
+    - [Hacking into Windows VM Part 2](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/6.%20Ethical%20Hacking%204%20-%20Remote%20Hacking%20Windows%20VM%20Part%202.md)
+    - [Password Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/7.%20Ethical%20Hacking%205%20-%20Password%20Problems.md)
+    - [Web Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/8.%20Ethical%20Hacking%206%20-%20Web%20Hacking.md)
+   
+- Hands-on Project 2: [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
+
+<h2></h2>
+    
+<h2>💻🕵🏻 Cyber Security Capstone Projects:</h2>  
 
 <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
@@ -142,26 +162,10 @@
   - [Phase 5 Part 2: Final Reports Executive Summary](https://docs.google.com/document/d/174S_ybBz4xr2A-YpVl6zWxooTCB2W0aLUfpGv0d2iYo/edit?usp=sharing)
       - Learning Objective:
           - The Executive Summary can be no more than 2 pages long, includes graphs and charts, and highlights the business impact of the findings.
-  
-<h2>Cybersecurity Home-Labs </h2>    
 
-- Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
-      
-- [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
-           
-- Vulnhub: [Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
+<h2></h2>
 
-- Hands-on Project 1: [Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
-    - [Creating a Phishing Email](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/3.%20Ethical%20Hacking%201%20-%20Phishing%20Email.md)
-    - [Reconnaissance](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/4.%20Ethical%20Hacking%202%20-%20Reconnaissance.md)
-    - [Hacking into Windows VM Part 1](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/5.%20Ethical%20Hacking%203%20-%20Remote%20Hacking%20Windows%20VM%20Part%201.md)
-    - [Hacking into Windows VM Part 2](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/6.%20Ethical%20Hacking%204%20-%20Remote%20Hacking%20Windows%20VM%20Part%202.md)
-    - [Password Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/7.%20Ethical%20Hacking%205%20-%20Password%20Problems.md)
-    - [Web Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/8.%20Ethical%20Hacking%206%20-%20Web%20Hacking.md)
-   
-- Hands-on Project 2: [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
-  
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Data Analytics Capstone Projects:</h2>
  
 <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
   - Description:
