@@ -149,7 +149,7 @@
       
 - [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
            
-- Vulnhub-[Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
+- Vulnhub: [Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
 
 - Hands-on Project 1: [Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
     - [Creating a Phishing Email](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/3.%20Ethical%20Hacking%201%20-%20Phishing%20Email.md)
