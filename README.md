@@ -34,8 +34,6 @@
 
   </div>
 
-<script src="https://tryhackme.com/badge/1880332"></script>
-
 <div align="center">
   <h2>My Contributions 🐍 Game</h2>
   <br>
