@@ -55,6 +55,10 @@
 
 <div align="left"> 
 
+![tryhackme stats](https://raw.githubusercontent.com/<jeffcybercheck>/<jeffcybercheck>/master/assets/thm_propic.png)
+
+
+
 <h1>My Experience</a>
 
 <h2>🎓 Professional Certifications: </h2>
