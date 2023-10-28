@@ -23,7 +23,7 @@
 
  🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge
 
- 💡 Please do not hesitate to ask any questions about cybersecurity.
+ 💡 Please do not hesitate to ask me any questions.
 
  ⚡ Fun fact: *You can* **skydive** *without a* **parachute**, *but only* **ONCE**.
  
