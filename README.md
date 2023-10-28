@@ -9,7 +9,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+I'm+Jeff!+👋;+Thank+You+For+Visiting!;" />
 </h1>
-<hr/>
+
         
  I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jeff-tsui177/)  
 
@@ -78,9 +78,6 @@
 </div>
 
 
-
-
-
 <hr/>
 
 <div align="left"> 
@@ -99,7 +96,7 @@
 
 <h2></h2>
 
-<h2>🎓 Learning Certifications: </h2>
+<h2>🎓 BootCamp Completion Certificates: </h2>
   
 <b>Bootcamp Certificates</b>
 
@@ -108,25 +105,47 @@
   - [Springboard Certification in Cybersecurity](https://www.credential.net/9e06fda2-a813-4170-9035-46762fb7148e#gs.z355vy)
   
   - [Springboard Certification in Data Analytics](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)
-  
- 
-<b>Coursera Guided Project Certificates</b>
-  
-  - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
+
+<h2></h2>
+
+<h2>Learning Certificates</h2>
+   
+<b>Coursera Certificates</b>
   
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/UDT333D53V9P)
 
-  - [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/VL72VSRES3N3)
- 
+  - [AWS S3 Basics](https://www.coursera.org/account/accomplishments/certificate/249J3UNS4UUJ)
+
+  - [Burp Suite for Beginners: Intro to Penetration Testing](https://www.coursera.org/account/accomplishments/certificate/M6VKAXZYZJWP)
+
   - [Introduction to Bash Shell Scripting](https://www.coursera.org/account/accomplishments/certificate/4HR73CEVW35N)
 
+  - [VEGA for Beginners: Scan for Web Vulnerabilities](https://www.coursera.org/account/accomplishments/certificate/WBR28RZXEFBK)
 
-<b>Udemy Learning Certificates </b>
+  - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/account/accomplishments/certificate/29FZV8SHGSMK)
 
-  - [The Complete Cyber Security Course: Hacker Exposed!](https://www.udemy.com/certificate/UC-16eddbfa-79eb-41d2-9b8f-b6a7ae0fd1bd/)
-     
+  - [Wireshark for Beginners: Capture Packets](https://www.coursera.org/account/accomplishments/certificate/VL72VSRES3N3)
+
+<b>Udemy Learning Certificates</b>
+
+  - [Bash / Shell 1100 Hands On Challenge with 10 Live Projects](https://www.udemy.com/certificate/UC-8da972b5-2145-4384-9bc6-47cb278c5a15/) 
   
+  - [Hack Your Future: Cyber Security Projects for Your Dream Job](https://www.udemy.com/certificate/UC-2e668bd7-18ed-4d5d-895a-8a7956e37436/)
+
+  - [Mastering Command Injection- The Ultimate Hands-On Course](https://www.udemy.com/certificate/UC-8f8093fb-d3a4-4cbe-9632-4f5472d7b10a/)
+
   - [Real-World Ethical Hacking: Hands-on Cybersecurity](https://www.udemy.com/certificate/UC-b39f1e81-31a4-4862-9b27-9931a6c4467b/)
+   
+  - [The Complete Cyber Security Course: Hacker Exposed!](https://www.udemy.com/certificate/UC-16eddbfa-79eb-41d2-9b8f-b6a7ae0fd1bd/)
+
+  - [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/certificate/UC-e32a40a8-5cc4-4bf8-82e9-42001b4ebfd1/)
+
+<b> TryHackMe Certificates </b>
+
+  - [Introduction to Cyber Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XM4LFIP0FI.png)
+
+  - [Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CAY1NDIDVO.png)
+
 
 <h2></h2>    
  
