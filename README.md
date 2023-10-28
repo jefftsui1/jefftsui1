@@ -55,7 +55,7 @@
 
 <div align="left"> 
 
-![tryhackme stats](https://raw.githubusercontent.com/<jeffcybercheck>/<jeffcybercheck>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/jeffcybercheck/jeffcybercheck/master/assets/thm_propic.png)[TryHackMe]
 
 
 
