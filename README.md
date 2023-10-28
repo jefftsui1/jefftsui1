@@ -149,7 +149,7 @@
 
 <h2></h2>    
  
-<h2>Cybersecurity Home-Labs </h2>    
+<h2>Cybersecurity Hands-On Projects</h2>    
 
 - [AWS: Home Lab](https://github.com/users/jefftsui1/projects/3)
 
@@ -175,7 +175,7 @@
 
 <h2></h2>
     
-<h2>💻🕵🏻 Cyber Security Capstone Projects:</h2>  
+<h2>💻🕵🏻 Cyber Security Capstone Project [Springboard]:</h2>  
 
 <b>Five Phases of Enterprise-Level Penetration Test </b>  
   - [Phase 1: Perform Reconnaissance](https://docs.google.com/document/d/1WG9F7TfN3jGJlaAbgRtiNyTea5hq9nL0sHZQhu_G0ZM/edit?usp=sharing)
@@ -220,7 +220,7 @@
 
 <h2></h2>
 
-<h2>👨‍💻 Data Analytics Capstone Projects:</h2>
+<h2>👨‍💻 Data Analytics Capstone Projects [Springboard]:</h2>
  
 <b>[Deep Dive into the Crime Rate in Staten Island with Tableau](https://public.tableau.com/app/profile/jeff.tsui2745/viz/shared/PK9RNBQKG)</b>
   - Description:
