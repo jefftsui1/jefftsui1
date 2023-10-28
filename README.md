@@ -172,7 +172,6 @@
 - [Nessus: Vulnerability Scanning](https://github.com/users/jefftsui1/projects/4)
 
 - [Penetration Testing](https://github.com/jefftsui1/Capstone-Project-Penetration-Test/blob/main/README.md)
-   
 
 <h2></h2>
     
