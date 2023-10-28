@@ -17,11 +17,11 @@
 
 <div align="left">
  
- ✎ I’m currently working on **Hands-On Cybersecurity Projects**
+ ✎ I’m currently working on **Hands-On Cybersecurity Projects**.
  
- 💻 I’m currently learning **Ethical Hacking** and studying **AWS Solutions Architect**
+ 💻 I’m currently learning **Ethical Hacking** from TryHackMe to enhance proficiency in Capture The Flag (CTF) challenges.
 
- 🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge
+ 🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge.
 
  💡 Please do not hesitate to ask me any questions.
 
