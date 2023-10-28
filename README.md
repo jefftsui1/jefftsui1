@@ -80,31 +80,31 @@
 
 <hr/>
 
-<div align="left"> 
+<div align="Center"> 
 
-<h1>My Experience</a>
+<h1>My Experience</h1>
+
+<div align="left"> 
 
 <h2>🎓 Professional Certifications: </h2>
 
-<b>AWS</b>
 
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/9316ec55-5cc6-4da0-9582-01bb6bc13e96/public_url)
-  
-<b>CompTIA</b>
-  
-  - [Security+ ce Certification](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)
+| Certification                           | Issuer                | Credential Verification                                                                | Short Description                                                                                                            |
+| --------------------------------------------| --------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| AWS Certified Cloud Practitioner        | AWS                   | [Link](https://www.credly.com/badges/9316ec55-5cc6-4da0-9582-01bb6bc13e96/public_url)  | Amazon Web Services, AWS, AWS Certification, AWS Cloud, Cloud Certification, Cloud Computing, Cloud Platform, Cloud Services |
+| Security+ ce Certification              | CompTIA               | [Link](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)             | Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security, Disaster Recovery Planning, Firewall Configuration, Malware Identification, Mobile Device Security, Network Security, Security Configuration, Security Policies, Threat Analysis, Threat Detection                              |
 
 <h2></h2>
 
 <h2>🎓 BootCamp Completion Certificates: </h2>
-  
-<b>Bootcamp Certificates</b>
 
-  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)
-  
-  - [Springboard Certification in Cybersecurity](https://www.credential.net/9e06fda2-a813-4170-9035-46762fb7148e#gs.z355vy)
-  
-  - [Springboard Certification in Data Analytics](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)
+| Certification                           | Issuer                | Credential Verification                                                                | Short Description                                                                                                            |
+| --------------------------------------------| --------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Cybersecurity Professional Certificate        | Google                 | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/GWP5Y8G3MJ87)  | Linux, Python Programming, SIEM tools, Intrusion Detection System (IDS), SQL |
+| Cyber Security Career Track             | Springboard              | [Link](https://www.credential.net/9e06fda2-a813-4170-9035-46762fb7148e#gs.z355vy)             |   Cybersecurity Fundamentals, Host-Based Security, Network Security, Threat Hunting, SecOps, Application Security, Identiiy and Access Management, Security Assessment and Testing, Malware Analysis, NLP                                                    |
+| Data Analytics Career Track             | Springboard              | [Link](https://www.credential.net/2913ada9-dbf4-47a5-a76a-27b0853c8608)             |   Finanical Analysis, Economics for Data Analysis, Statistics for Data Analysis, Visualization Tools, Art of Storytelling, Data Connectivity, Data Analysis in Python,                                                |
+
+         
 
 <h2></h2>
 
@@ -245,3 +245,4 @@
    
   - Skills used: Analytic Skills, Data Visualization, Python 
  
+
