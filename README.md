@@ -55,7 +55,7 @@
 
 <div align="left"> 
 
-![tryhackme stats](https://raw.githubusercontent.com/jefftsui177/jefftsui177/master/assets/thm_propic.png)[TryHackMe]
+![tryhackme stats](https://raw.githubusercontent.com/jefftsui177/jefftsui177/tree/main/assets/thm_propic.png)[TryHackMe]
 
 
 
