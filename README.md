@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/jefftsui1/jefftsui1/assets/275119218-d1397fe6-99fa-4913-b2c4-159e3180131b.gif" style="max-width:100" alt="Banner" >
-</div>
+
+![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://github.com/jefftsui1/jefftsui1/assets/46698661/138acf75-2f95-4334-80ce-c6c736112abc)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefftsui1.jefftsui1" />
