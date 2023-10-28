@@ -151,21 +151,28 @@
  
 <h2>Cybersecurity Home-Labs </h2>    
 
-- Setting up [Kali Linux VM](https://github.com/jefftsui1/Home-Lab-VM) and [Ubuntu](https://github.com/jefftsui1/Home-Lab-VM2-Ubuntu) using VirtualBox
-      
-- [TCPDump Basic Commands Lab](https://github.com/jefftsui1/TCPDump)
-           
-- Vulnhub: [Jangow](https://github.com/jefftsui1/Vulnhub-Jangow)
+- [AWS: Home Lab](https://github.com/users/jefftsui1/projects/3)
 
-- Hands-on Project 1: [Ethical Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne)
-    - [Creating a Phishing Email](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/3.%20Ethical%20Hacking%201%20-%20Phishing%20Email.md)
-    - [Reconnaissance](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/4.%20Ethical%20Hacking%202%20-%20Reconnaissance.md)
-    - [Hacking into Windows VM Part 1](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/5.%20Ethical%20Hacking%203%20-%20Remote%20Hacking%20Windows%20VM%20Part%201.md)
-    - [Hacking into Windows VM Part 2](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/6.%20Ethical%20Hacking%204%20-%20Remote%20Hacking%20Windows%20VM%20Part%202.md)
-    - [Password Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/7.%20Ethical%20Hacking%205%20-%20Password%20Problems.md)
-    - [Web Hacking](https://github.com/jefftsui1/Cybersecurity-Home-Labs/blob/main/Guided-Labs/Ethical%20Hacking/Bryson-Payne/8.%20Ethical%20Hacking%206%20-%20Web%20Hacking.md)
+- [AWS: Password Manager](https://github.com/users/jefftsui1/projects/6)
+
+- [Azure: Sentinel Honeypot](https://github.com/users/jefftsui1/projects/1)
+
+- [Azure: Sentinel SIEM](https://github.com/users/jefftsui1/projects/8)
+
+- [Azure: Sentinel with ChatGPT](https://github.com/users/jefftsui1/projects/9)
+
+- [Azure: T-POT HoneyPot](https://github.com/users/jefftsui1/projects/7)
+
+- [Burp Suite: Command Injection](https://github.com/users/jefftsui1/projects/10)
+
+- [Ethical Hacking Project](https://github.com/users/jefftsui1/projects/5)
+
+- [Mastering Bash Shell Command/Scripting](https://github.com/users/jefftsui1/projects/11)
+
+- [Nessus: Vulnerability Scanning](https://github.com/users/jefftsui1/projects/4)
+
+- [Penetration Testing](https://github.com/jefftsui1/Capstone-Project-Penetration-Test/blob/main/README.md)
    
-- Hands-on Project 2: [Azure Sentinel Honeypot](https://github.com/jefftsui1/Cybersecurity-Home-Labs/tree/main/Guided-Labs/Ethical%20Hacking/Josh-Madakor/Azure-SIEM)
 
 <h2></h2>
     
