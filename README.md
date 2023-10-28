@@ -2,13 +2,15 @@
 ![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://github.com/jefftsui1/jefftsui1/assets/46698661/138acf75-2f95-4334-80ce-c6c736112abc)
 
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefftsui1.jefftsui1" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+I'm+Jeff!+👋;+Thank+You+For+Visiting!;" />
 </h1>
-
+<hr/>
+        
  I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jeff-tsui177/)  
 
 <br/>
@@ -27,19 +29,28 @@
  
  </div>
 
+<div align="center">
+    
+<a href="https://tryhackme.com/p/jefftsui177"><img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/ee41b122-1dbf-410f-9fd6-52fa6903f32b" alt="jefftsui177 TryHackMe stats" /></a>
+
 
 <div align="center"> 
-<a href="mailto:jefftsui502@gmail.com">
+  <a href="mailto:jefftsui502@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://jeffcybercheck.tech/">
+    <img src="https://img.shields.io/badge/JeffCyberCheck-7f8f84?style=for-the-badge&logo=circle&logoColor=white" />  
+  </a>
   <a href="https://www.linkedin.com/in/jeff-tsui177/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
 
   </div>
 
+
+
 <div align="center">
-  <h2>My Contributions 🐍 Game</h2>
+  <h1>My Contributions 🐍 Game</h1>
   <br>
     
 <picture>
@@ -53,15 +64,26 @@
   <br/><br/><br/>
 </div>
 
+<div align="center">
+  <h1 align="center"> My Github Stats </h1>
+</div>
+
+<div align="center">
+  <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefftsui1&theme=tokyonight" alt="Stat Streak" /></p>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/f7da48e9-2583-4658-b1f4-f2dd4c376713" style="max-width:100" alt="Banner" >
+</div>
+
+
+
+
+
 <hr/>
 
-
-
 <div align="left"> 
-
-<a href="https://tryhackme.com/p/jefftsui177"><img src="https://tryhackme-badges.s3.amazonaws.com/jefftsui177.png" alt="jefftsui177 TryHackMe stats" /></a>
-
-
 
 <h1>My Experience</a>
 
