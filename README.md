@@ -31,7 +31,10 @@
 
 <div align="center">
     
-<a href="https://tryhackme.com/p/jefftsui177"><img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/ee41b122-1dbf-410f-9fd6-52fa6903f32b" alt="jefftsui177 TryHackMe stats" /></a>
+<a href="https://tryhackme.com/p/jefftsui177"><img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/79cab07a-bac4-4abd-868b-c77441c5fe45" alt="jefftsui177 TryHackMe stats" /></a>
+
+
+
 
 
 <div align="center"> 
