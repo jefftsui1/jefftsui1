@@ -232,7 +232,7 @@
    
       - [Presentation](https://drive.google.com/file/d/1DB2lT1LtIInXssOkjTgWb2I0LkzEG8al/view?usp=sharing)
 
-  - Skills used: Analytic Skills, Data Visualization, Tableau
+  - Skills Used: Analytic Skills, Data Visualization, Tableau
         
 
 <b>[Deep Dive into the Motor Vehicle Accidents in Staten Island using Python](https://github.com/jefftsui1/Python-Project/blob/main/README.md)</b>
@@ -245,6 +245,6 @@
   - [Bouns Part: Presenting data with Tableau](https://public.tableau.com/app/profile/jeff.tsui3845/viz/Capstone2_16197333090400/MotorCrashesinStatenIslandNYC)
       - Description: Using the site public.tableau.com, I created a tableau in order to analyze my findings for my capstone project. Anyone can play around with the table to look at the heatmap, matrix, graph, and chart.
    
-  - Skills used: Analytic Skills, Data Visualization, Python 
+  - Skills Used: Analytic Skills, Data Visualization, Python 
  
 
