@@ -1,4 +1,3 @@
-
 ![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://github.com/jefftsui1/jefftsui1/assets/46698661/138acf75-2f95-4334-80ce-c6c736112abc)
 
 
@@ -31,7 +30,7 @@
 
 <div align="center">
     
-<a href="https://tryhackme.com/p/jefftsui177"><img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/79cab07a-bac4-4abd-868b-c77441c5fe45" alt="jefftsui177 TryHackMe stats" /></a>
+<a href="https://tryhackme.com/p/jefftsui177"><img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/a6b8d30f-a134-44c8-acb2-6999ffbf2d0e" alt="jefftsui177 TryHackMe stats" /></a>
 
 
 
