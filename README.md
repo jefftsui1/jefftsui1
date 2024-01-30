@@ -66,13 +66,7 @@
   <br/><br/><br/>
 </div>
 
-<div align="center">
-  <h1 align="center"> My Github Stats </h1>
-</div>
 
-<div align="center">
-  <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefftsui1&theme=tokyonight" alt="Stat Streak" /></p>
-</div>
 
 
 <div align="center">
