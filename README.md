@@ -10,7 +10,7 @@
 </h1>
 
         
- I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jeff-tsui177/)  
+ I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jtcybertech/)  
 
 <br/>
 
@@ -37,13 +37,13 @@
 
 
 <div align="center"> 
-  <a href="mailto:jefftsui502@gmail.com">
+  <a href="mailto:jt.cybertech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://jeffcybercheck.tech/">
-    <img src="https://img.shields.io/badge/JeffCyberCheck-7f8f84?style=for-the-badge&logo=circle&logoColor=white" />  
+  <a href="https://jcybertech.vercel.app/">
+    <img src="https://img.shields.io/badge/JCyberTech-7f8f84?style=for-the-badge&logo=circle&logoColor=white" />  
   </a>
-  <a href="https://www.linkedin.com/in/jeff-tsui177/" target="_blank">
+  <a href="https://www.linkedin.com/in/jtcybertech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
 
